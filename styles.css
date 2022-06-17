@@ -1,0 +1,32 @@
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+header {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+    flex: auto;
+    justify-content: space-around;
+}
+.div1 {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+    
+}
+.div2 {
+    display: flex;
+}
+.div3 {
+    background-color: #E5E7EB;
+    color: #1F2937;
+}
+.div4 {
+    background-color: #3882F6;
+
+}
+img {
+    height: 350px;
+    width: 300px;
+}
