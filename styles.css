@@ -14,6 +14,8 @@
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
+    border-radius: 6px;
+    border: #1F2937 solid 1px;
 }
 .div4 a {
     background-color: #3882F6;
@@ -42,6 +44,7 @@
     padding: 2%;
     padding-left: 30%;
     padding-right: 25%;
+    color: #E5E7EB;
 }
 .div3 {
     background-color: #E5E7EB;
@@ -90,6 +93,7 @@
     background-color: #3882F6;
     border-radius: 6px;
     text-decoration: none;
+    padding: 4px;
 }
 .signup1 {
     margin-left: 20%;
