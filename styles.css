@@ -1,31 +1,47 @@
+.linkclass {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
 .footer {
     text-align: center;
     color: #E5E7EB;
+}
+.div4sub {
+    background-color: #3882F6;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
 }
 .div4 a {
     background-color: #3882F6;
     border-radius: 6px;
     text-decoration: none;
     font-size: 26px;
-    width: 45%;
+    width: 15%;
+    text-align: right;
+    border: #1F2937 solid 3px;
 }
 .div4 .linkclass {
     width: 400px;
-    padding-right: 6%;
+    padding-right: 12%;
     text-align: center;
 }
 .div4 h3 {
-    width: 60%;
+    width: 20%;
+    text-align: center;
 }
 .div4 {
     display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
+    flex-direction: column;
     background-color: #F9FAF8;
     border: grey solid 1px;
     border-radius: 6px;
-    justify-content: space-between;
-    padding-left: 9%;
+    padding: 2%;
+    padding-left: 30%;
+    padding-right: 25%;
 }
 .div3 {
     background-color: #E5E7EB;
