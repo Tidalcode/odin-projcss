@@ -1,43 +1,70 @@
-.footer {
-    background-color: #1F2937;
-    color: #F9FAF8;
+.signup1 {
+    margin-left: 20%;
+    width: 100px;
 }
-header {
+body .box1,.box2 {
     background-color: #1F2937;
-    color: #F9FAF8;
+}
+.box1 {
     display: flex;
-    flex: auto;
-    justify-content: space-around;
+    color: #F9FAF8;  
+}
+.glg {
+    display: flex;
+    flex-direction: row;
+    width: 84%;
+    height: 65px;
+    padding-bottom: 10px;
+    padding-left: 12%;
+    font-size: 24px;
+}
+.hlink {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 15%;
+    align-items: flex-end;
+    padding-right: 5%;
+}
+.box2 {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
 }
 .div1 {
-    background-color: #1F2937;
-    color: #F9FAF8;
-    display: flex;
-    flex-direction: column;
-    padding: 0 7% 2% 7%;
+    width: 80%;
 }
 .img1 {
-    align-self: flex-end;
-    justify-content: flex-start;
-    height: 400px;
-    width: 49%;
-
+    display: flex;
+    flex-direction: row-reverse;
+    padding-right: 2%;
+}
+.cis {
+    font-size: 18px;
+}
+a:active {
+    color: #E5E7EB;
+}
+a:visited {
+    color: #E5E7EB;
+}
+body {
+    background-color: #1F2937;
+}
+h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    padding-left: 10%;
 }
 .goal {
-    max-width: 50%;
+    color: #E5E7EB;
+    font-size: 18px;
+    padding-left: 10%;
 }
-.signup1 {
-    max-width: 50%;
+img {
+width: 70%;
 }
-.div2 {
-    display: flex;
+.micro1 {
+    border: black solid 3px;
 }
-.div3 {
-    background-color: #E5E7EB;
-    color: #1F2937;
-}
-.div4 {
-    background-color: #3882F6;
-
-}
-
