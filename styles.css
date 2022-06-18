@@ -1,3 +1,16 @@
+.div3 {
+    background-color: #E5E7EB;
+    text-align: center;
+    font-weight: bolder;
+    border: grey solid 1px;
+    border-radius: 6px;
+}
+.div3 h3 {
+    margin-top: 0;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
 .imageclass {
     height: 400px;
 }
@@ -17,6 +30,7 @@
     border: grey solid 1px; 
     border-radius: 6px;
     padding-left: 2%;
+    margin-bottom: 0;
 }
 .info {
     width: 100%;
