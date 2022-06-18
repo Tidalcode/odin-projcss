@@ -1,3 +1,29 @@
+
+.div4 a {
+    background-color: #3882F6;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 26px;
+    width: 45%;
+}
+.div4 .linkclass {
+    width: 400px;
+    padding-right: 6%;
+    text-align: center;
+}
+.div4 h3 {
+    width: 60%;
+}
+.div4 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background-color: #F9FAF8;
+    border: grey solid 1px;
+    border-radius: 6px;
+    justify-content: space-between;
+    padding-left: 9%;
+}
 .div3 {
     background-color: #E5E7EB;
     text-align: center;
@@ -15,7 +41,6 @@
     height: 400px;
 }
 .imageclass img {
-    border: black solid 1px;
     border-radius: 6px;
     
 }
